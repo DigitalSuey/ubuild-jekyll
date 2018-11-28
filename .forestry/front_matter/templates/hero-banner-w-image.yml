@@ -27,14 +27,14 @@ fields:
   config:
     wysiwyg: true
     schema:
-      format: markdown
+      format: html
 - type: textarea
   name: content
   label: Content
   config:
     wysiwyg: true
     schema:
-      format: html
+      format: markdown
 - type: field_group
   name: cta
   label: Call-to-action
