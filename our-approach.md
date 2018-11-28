@@ -6,10 +6,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Hello
-  content: |-
-    * Project Management
-    * Product Planning
-    * Technical Experience
+  content: "<ul><li><p>Project Management</p></li><li><p>Product Planning</p></li><li><p>Technical
+    Experience</p></li></ul>"
 published: false
 
 ---
