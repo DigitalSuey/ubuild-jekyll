@@ -21,6 +21,9 @@ fields:
   - type: text
     name: alt_text
     label: Alt Text
+- type: list
+  label: Feature List
+  name: feature_list
 - type: textarea
   name: headline
   label: Headline
@@ -48,6 +51,3 @@ fields:
   - type: text
     name: button_text
     label: Button text
-- type: list
-  label: Feature List
-  name: feature_list
